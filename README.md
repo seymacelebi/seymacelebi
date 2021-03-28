@@ -1,7 +1,6 @@
-
- I'm Şeyma
- I am Computer Engineering Student
-(https://www.linkedin.com/in/seyma-celebi/)
+### Hi there 👋, I'm Şeyma
+#### Computer Engineer
+![Computer Engineer](https://www.linkedin.com/in/seyma-celebi/)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -15,4 +14,3 @@ Skills: .Net/Asp/Mvc/Sql
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seymacelebi&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/seymacelebi)  
