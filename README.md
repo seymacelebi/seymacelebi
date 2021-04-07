@@ -9,7 +9,7 @@ Skills: C# / .Net Core/ Asp.Net/ SQL/
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seymacelebi)  
 
-![Profile views](https://gpvc.arturio.dev/seymacelebi)  
+
 
 
 
