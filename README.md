@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Şeyma
-#### I am Computer Engineering Student
+#### I am Computer Engineer
 
 
 -📫 How to reach me **celebiseyma98@gmail.com**
